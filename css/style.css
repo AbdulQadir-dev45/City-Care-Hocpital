@@ -67,7 +67,7 @@ body{
 
 .menu a.active,
 .menu a:hover{
-  text-decoration:underline;
+  text-decoration:2px underline #1f3c88;
 }
 
 /* ======================= HERO SLIDER ======================= */
@@ -144,7 +144,7 @@ body{
 }
 
 .emergency-banner p{
-  font-size:1.3rem;
+  font-size:1.2rem;
   text-align:center;
   padding:0px 150px;
 }
